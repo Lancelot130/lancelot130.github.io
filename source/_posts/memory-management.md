@@ -1,5 +1,5 @@
 ---
-title: memory management
+title: 内存管理
 date: 2026-11-10 21:55:17
 tags:
   - 凌睿
@@ -8,8 +8,7 @@ tags:
 categories: 学习
 ---
 
-工作室招新期间的学习笔记~
-
+工作
 # 内存管理 feat.Lancelot
 
 ~~_~头好痛~_~~
